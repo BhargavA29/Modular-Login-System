@@ -16,10 +16,10 @@ A modular login system built with Node.js and MongoDB for user registration and 
 git clone https://github.com/yourusername/modular-login-system.git
 cd modular-login-system
 
-**Install Dependencies**
+### Install Dependencies
 npm install
 
-**Setup Environment Variables**
+### Setup Environment Variables 
 Create a .env file in the root directory with the following:
 
 MONGO_URI=your_mongodb_connection_string
