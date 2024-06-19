@@ -15,6 +15,7 @@ A modular login system built with Node.js and MongoDB for user registration and 
 ```bash
 git clone https://github.com/yourusername/modular-login-system.git
 cd modular-login-system
+```
 
 ### Install Dependencies
 npm install
@@ -26,5 +27,10 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 PORT=5000
 
+### Running the Application
+npm start
+
+### Usage
+npm install modular-login-system
 
 
